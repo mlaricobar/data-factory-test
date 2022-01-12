@@ -1,0 +1,7 @@
+{
+	"name": "MySelfHostedIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "My Self Hosted Integration Runtime for learning how to delimit data factory capabilities in a private network"
+	}
+}
