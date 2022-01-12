@@ -34,7 +34,7 @@
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
 							"maxRowsPerFile": 100,
-							"fileNamePrefix": "movies_partitioned",
+							"fileNamePrefix": "",
 							"quoteAllText": true,
 							"fileExtension": ".txt"
 						}
